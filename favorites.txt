@@ -6,12 +6,6 @@ Whiskers on kittens
 
 Bright copper kettles
 
-Warm woolen mittens
-
-Brown paper packages tied up with strings
-
-Cream-colored ponies
-
 this is not quite ten things but I thought it was creative
 
 I am adding this line so that I can have 2 commits
@@ -19,3 +13,5 @@ I am adding this line so that I can have 2 commits
 I am adding this line so that I can have 3 commits
 
 In all the other commits like this one I added lines of text.
+
+I had to delete Warm woolen mittens, Brown paper packages tied up with strings and Cream-colored ponies from above and move them to here for step 13
